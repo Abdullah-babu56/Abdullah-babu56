@@ -1,6 +1,12 @@
-  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdullah+Babu;I'm+B+Tech+1st+Student+atLovely+Professional+University+Punjab+India;Welcome+to+my+GitHub+Profile!" />
-</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Babu</h1>
+
+<h3 align="center">
+B.Tech Computer Science Student at Lovely Professional University (LPU), India
+</h3>
+
+<p align="center">
+💻 Aspiring Software Engineer • ☕ Java • 🐍 Python • 📚 Data Structures & Algorithms • 🔐 Cyber Security Enthusiast
+</p>
 
 
 
